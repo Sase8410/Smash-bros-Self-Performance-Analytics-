@@ -63,4 +63,5 @@ print(df.shape)
 print("\nUnique characters:")
 print(df["character"].unique())
 
-print(df)
+df.to_csv("cleaned_smash_dataset.csv", index=False)
+print("\nCleaned dataset saved to 'cleaned_smash_dataset.csv'")
