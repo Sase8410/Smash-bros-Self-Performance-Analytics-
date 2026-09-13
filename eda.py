@@ -228,7 +228,23 @@ if "match_time_seconds" in df.columns:
     plt.close()
 
 # 8. Matchup Win Rate Heatmap
-matchup_win_rate = df.pivot_table(
+matchup_counts = (
+    df.groupby(["character", "opponent_character"])
+    .size()
+    .reset_index(name="matches")
+)
+
+valid_matchups = matchup_counts[
+    matchup_counts["matches"] >= 2
+]
+
+filtered_matchups = df.merge(
+    valid_matchups[["character", "opponent_character"]],
+    on=["character", "opponent_character"],
+    how="inner"
+)
+
+matchup_win_rate = filtered_matchups.pivot_table(
     index="character",
     columns="opponent_character",
     values="result",
@@ -247,7 +263,7 @@ sns.heatmap(
     linewidths=0.5
 )
 
-plt.title("Win Rate by Character Matchup")
+plt.title("Win Rate by Character Matchup (2+ Matches)")
 plt.xlabel("Opponent Character")
 plt.ylabel("My Character")
 
