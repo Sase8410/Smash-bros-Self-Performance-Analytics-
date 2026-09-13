@@ -1,0 +1,153 @@
+match_id,character,opponent_character,result,kos,falls,sds,match_time,damage_given,damage_taken,gsp
+1,mario,mii gunner,1,3,2,0,4:32,338,218,14244815
+2,mario,steve,0,2,3,0,5:42,423,368,13804225
+3,mario,donkey kong,0,2,3,0,4:29,281,264,13232667
+4,mario,king k rool,0,2,3,0,4:38,345,233,12716780
+5,mario,dark samus,1,3,1,0,4:47,418,240,13232667
+6,mario,villager,0,1,2,0,3:45,263,236,12758029
+7,mario,mii brawler,1,3,2,0,4:37,285,289,12758104
+8,mario,mythra/pyra,1,3,2,0,4:45,411,188,12758104
+9,mario,joker,1,3,2,0,4:44,395,201,13232746
+10,mario,mewtwo,0,2,3,0,5:30,352,399,12799099
+11,mario,captain falcon,0,1,3,0,4:32,246,360,12334459
+12,mario,sephiroth,1,3,2,0,5:04,309,354,12758104
+13,mario,inkling,0,2,3,0,5:32,349,407,12334459
+14,mario,megaman,0,2,3,0,6:34,436,528,11887450
+15,mario,steve,1,3,2,0,4:40,290,293,12334459
+16,mario,ken,1,3,2,0,5:21,315,404,12716855
+17,mario,diddy kong,1,3,0,0,2:40,243,39,13117678
+18,mario,captain falcon,0,2,3,0,6:09,368,512,12716855
+19,mario,king dedede,1,3,1,0,4:06,344,176,13078783
+20,mario,inkling,1,3,1,0,4:30,385,215,13419054
+21,mario,ken,0,1,3,0,4:39,265,365,13078783
+22,mario,lucas,0,2,3,0,4:58,329,315,12716855
+23,mario,jigglypuff,1,3,2,0,3:37,193,180,13078783
+24,mario,mii brawler,1,3,0,0,3:28,314,130,13419054
+25,mario,pikachu,0,2,3,0,4:21,151,370,13079868
+26,captain falcon,captain falcon,1,3,2,0,6:02,379,476,15127707
+27,captain falcon,pichu,1,3,2,0,4:22,182,342,15312729
+28,captain falcon,joker,1,3,2,0,5:24,403,327,15459274
+29,captain falcon,cloud,0,2,3,0,5:26,296,440,15312729
+30,captain falcon,mario,1,3,2,0,4:16,191,313,15474447
+31,captain falcon,ganondorf,0,2,3,0,4:51,241,379,15329921
+32,captain falcon,piranha plant,1,3,2,0,4:40,339,245,15489404
+33,captain falcon,mr game and watch,1,3,1,0,4:43,364,278,15614635
+34,captain falcon,rob,1,3,0,0,2:51,170,149,15735157
+35,captain falcon,cloud,1,3,0,0,2:31,129,125,15837923
+36,captain falcon,duck hunt,0,1,3,0,4:15,183,367,15735157
+37,captain falcon,donkey kong,0,2,3,0,4:27,275,264,15601532
+38,captain falcon,dr mario,0,2,3,0,5:08,239,438,15474447
+39,captain falcon,samus,1,3,2,0,5:24,391,339,15601532
+40,captain falcon,link,1,3,1,0,4:08,229,298,15713535
+41,captain falcon,snake,1,3,2,0,5:07,296,376,15712535
+42,captain falcon,sheik,0,0,3,0,3:39,111,369,15601532
+43,captain falcon,hero,0,2,3,0,5:53,355,471,15474447
+44,captain falcon,richter,0,2,3,0,5:09,251,430,15346882
+45,captain falcon,joker,0,2,3,0,4:09,190,290,15166656
+46,captain falcon,ridley,1,3,2,0,3:55,119,315,15346882
+47,captain falcon,ness,1,3,2,0,5:43,346,448,15489404
+48,captain falcon,pit,0,2,3,0,5:23,381,346,15329921
+49,captain falcon,sora,1,3,2,0,5:15,310,389,15489404
+50,captain falcon,little mac,0,2,3,0,4:45,217,382,15346882
+51,captain falcon,kazuya,1,3,2,0,6:22,445,478,15518681
+52,lucas,donkey kong,1,3,1,0,4:34,371,244,12116342
+53,lucas,ganondorf,1,3,1,0,3:00,171,129,12552074
+54,lucas,mario,0,1,3,0,3:58,175,319,12161664
+55,lucas,captain falcon,1,2,1,0,3:45,261,238,12552812
+56,lucas,snake,0,2,3,0,5:35,325,442,12161664
+57,lucas,ganondorf,1,3,2,0,3:56,311,125,12552812
+58,lucas,megaman,0,1,3,0,4:18,187,373,12161664
+59,lucas,dark samus,1,3,2,0,5:08,392,284,12552812
+60,lucas,pit,0,2,3,0,4:40,260,324,12117050
+61,lucas,ness,1,3,2,0,3:55,187,246,12510302
+62,lucas,greninja,1,3,0,0,2:08,129,49,12883893
+63,lucas,mii brawler,1,3,1,0,3:49,286,176,13236438
+64,lucas,little mac,0,0,3,0,3:08,90,287,12883893
+65,lucas,donkey kong,0,1,3,0,4:05,214,302,12467550
+66,lucas,banjo & kazooie,1,3,1,0,4:34,388,226,12883893
+67,lucas,pacman,1,3,1,0,4:17,324,231,13236438
+68,lucas,sephiroth,1,3,2,0,4:23,206,319,13637266
+69,lucas,ganondorf,1,2,1,0,3:12,219,170,13972047
+70,lucas,marth,1,3,1,0,4:30,368,232,14066914
+71,lucas,mario,1,3,1,0,4:02,240,266,14364563
+72,lucas,yoshi,1,3,2,0,5:53,436,390,14608228
+73,lucas,ganondorf,0,2,3,0,5:29,316,429,14307312
+74,lucas,ness,0,0,3,0,4:27,267,372,14003956
+75,lucas,duck hunt,1,3,2,0,5:32,419,338,14307312
+76,lucas,mario,0,1,3,0,4:09,227,303,13972047
+77,lucas,lucina,1,3,2,0,4:50,242,373,14278261
+78,toon link,lucina,1,3,2,0,4:08,280,197,9514166
+79,toon link,marth,1,3,2,0,4:33,289,270,10386939
+80,toon link,kirby,1,3,2,0,5:11,348,339,11182330
+81,toon link,yoshi,1,3,2,0,5:30,435,315,11891115
+82,toon link,ganondorf,1,3,1,0,4:08,332,195,12553254
+83,toon link,incineroar,0,2,3,0,6:13,419,473,11891115
+84,toon link,ike,1,2,1,0,3:20,183,235,12510743
+85,toon link,jigglypuff,1,3,2,0,5:03,347,313,13043711
+86,toon link,joker,0,2,3,0,4:53,228,399,12467989
+87,toon link,lucina,1,3,2,0,4:56,336,300,13004266
+88,toon link,fox,0,1,3,0,3:53,215,260,12467989
+89,toon link,diddy kong,0,1,3,0,3:08,161,165,11936815
+90,toon link,marth,0,1,3,0,4:02,218,288,11375336
+91,toon link,lucas,1,3,2,0,5:26,374,363,11936815
+92,toon link,falco,1,3,1,0,4:10,253,279,12467989
+93,toon link,samus,1,3,1,0,4:01,294,211,12924584
+94,toon link,ridley,0,1,3,0,4:11,258,277,12467989
+95,toon link,hero,0,2,3,0,4:41,276,312,12027577
+96,toon link,king k rool,1,3,2,0,4:57,449,190,12467989
+97,toon link,ridley,1,3,2,0,4:59,369,277,12843855
+98,toon link,zero suit samus,1,3,1,0,3:43,215,229,13198810
+99,toon link,ike,1,3,2,0,5:11,398,288,13567469
+100,toon link,ike,1,3,1,0,4:48,418,243,13602712
+101,toon link,byleth,1,3,1,0,5:08,434,294,13875187
+102,toon link,hero,1,3,0,0,3:03,242,117,14159800
+103,pit,mr game and watch,1,3,0,0,3:14,365,160,14967618
+104,pit,steve,0,2,3,0,4:12,305,418,14808730
+105,pit,link,1,3,1,0,4:33,362,309,15010646
+106,pit,captain falcon,1,3,2,0,4:17,389,379,15210529
+107,pit,ken,0,2,3,0,3:19,280,455,15010646
+108,pit,bayonetta,1,3,2,0,3:53,384,454,15210529
+109,pit,little mac,1,3,2,0,2:22,273,275,15369593
+110,pit,captain falcon,0,1,3,0,1:52,195,298,15210529
+111,pit,fox,1,3,1,0,2:18,299,210,15418447
+112,pit,steve,0,2,3,0,2:43,261,439,15247547
+113,pit,lucina,1,3,1,0,3:27,292,209,15418447
+114,pit,byleth,1,3,2,0,5:33,322,465,15567093
+115,pit,incineroar,0,2,3,0,3:32,373,381,15402387
+116,pit,rob,1,3,2,0,4:25,391,360,15567093
+117,pit,kirby,1,3,1,0,2:30,299,238,15695312
+118,pit,king dedede,1,3,2,0,6:00,403,375,15794811
+119,pit,lucas,0,1,3,0,2:49,215,349,15671212
+120,pit,link,0,2,3,0,3:08,314,377,15524730
+121,pit,pit,0,2,3,0,3:34,254,422,15386103
+122,pit,diddy kong,0,2,3,0,3:26,293,450,15229153
+123,pit,incineroar,1,3,2,0,3:08,295,353,15449900
+124,pit,joker,0,2,3,0,5:54,317,507,15283584
+125,pit,mr game and watch,0,2,3,0,2:36,308,363,15301253
+126,pit,incineroar,1,3,1,0,0:58,177,149,15465297
+127,pit,kirby,1,3,2,0,3:36,357,366,15607618
+128,banjo & kazooie,dr mario,1,3,2,0,3:20,361,336,15210529
+129,banjo & kazooie,dark samus,0,2,3,0,3:18,385,400,15031773
+130,banjo & kazooie,dark pit,1,3,2,0,3:20,408,320,15229153
+131,banjo & kazooie,little mac,1,3,0,0,1:26,259,97,15386103
+132,banjo & kazooie,ridley,1,3,2,0,2:18,352,236,15539059
+133,banjo & kazooie,mewtwo,0,2,3,0,2:55,305,295,15386103
+134,banjo & kazooie,yoshi,1,3,0,0,0:58,205,56,15567093
+135,banjo & kazooie,king dedede,1,3,2,0,3:50,431,358,15683356
+136,banjo & kazooie,mii brawler,1,3,2,0,2:37,373,300,15773926
+137,banjo & kazooie,diddy kong,1,3,2,0,2:16,212,205,15871779
+138,banjo & kazooie,zero suit samus,1,3,2,0,3:24,412,258,15938951
+139,banjo & kazooie,bayonetta,0,2,3,0,3:04,362,455,15898065
+140,banjo & kazooie,zelda,0,2,3,0,3:32,267,372,15805001
+141,banjo & kazooie,wii fit trainer,0,1,3,0,2:12,169,328,15683356
+142,banjo & kazooie,wii fit trainer,0,1,3,0,2:51,216,410,15539059
+143,banjo & kazooie,fox,1,3,2,0,3:53,281,309,15658879
+144,banjo & kazooie,link,1,3,2,0,4:30,334,465,15773926
+145,banjo & kazooie,captain falcon,1,3,2,0,3:44,403,312,15862713
+146,banjo & kazooie,mii gunner,1,3,2,0,4:04,394,394,15938951
+147,banjo & kazooie,sephiroth,0,0,3,0,1:47,127,254,15871779
+148,banjo & kazooie,luigi,1,3,2,0,2:33,275,288,15938951
+149,banjo & kazooie,palutena,0,1,2,0,3:00,191,169,15834579
+150,banjo & kazooie,cloud,0,2,3,0,3:18,313,417,15730077
+151,banjo & kazooie,pyra and mythra,1,3,2,0,5:03,408,365,15824883
+152,banjo & kazooie,ness,1,3,2,0,1:09,287,236,15906530
