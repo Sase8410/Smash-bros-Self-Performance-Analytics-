@@ -37,7 +37,8 @@ Scripts run in this order:
 <img width="1172" height="1169" alt="image" src="https://github.com/user-attachments/assets/44b7d25f-ec7a-447a-8069-0232909ff8a5" />
 <img width="1172" height="1169" alt="image" src="https://github.com/user-attachments/assets/30518b66-cb52-4b55-9a71-db790691429c" />
 <img width="750" height="600" alt="image" src="https://github.com/user-attachments/assets/a463d44d-3d8a-4969-ab94-ea9b013e0985" />
-<img width="750" height="600" alt="image" src="https://github.com/user-attachments/assets/29886744-7343-4ba3-b77e-fdb6b454212a" />
+<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/434946b7-0e56-4c47-86ee-ab0f15e0eb3b" />
+
 
 ## Future improvements:
 - More matches per character/matchup to stabilize the matchup-level clustering.
