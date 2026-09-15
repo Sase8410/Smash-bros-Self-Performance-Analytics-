@@ -1,2 +1,4 @@
 # Smash-bros-Self-Performance-Analytics-
-Predicting win probability and discovering latent playstyles from in-game results-screen statistics using gradient boosting and unsupervised clustering.
+A personal analytics pipeline that turns my own Super Smash Bros. Ultimate match history into a structured dataset, then applies unsupervised and supervised machine learning to answer two questions: how do I play, and what actually makes me win?
+
+## Motivation
