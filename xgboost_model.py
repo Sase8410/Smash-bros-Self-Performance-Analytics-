@@ -1,31 +1,3 @@
-"""
-XGBoost Classification: "What makes me win?"
-
-Predicts match result (win/loss) from in-game performance stats, and uses
-feature importance to surface which stats actually drive winning.
-
-LEAKAGE / TAUTOLOGY NOTE (read before trusting any accuracy number here):
-Four columns correlate almost perfectly with `result` and are deliberately
-EXCLUDED from the feature set:
-  - kos (r=0.86), falls (r=-0.80), ko_differential (r=0.91): in Smash,
-    the match result is *decided* by who lands more KOs before falls/time
-    runs out (data_cleaning.py's own validation rule assumes this). Using
-    these to predict `result` isn't really prediction -- it's restating
-    the scoreboard. A 95%+ accuracy model trained on ko_differential alone
-    would be technically correct and analytically useless.
-  - gsp_change (r=0.82): GSP moves *because* you won or lost the match
-    that already happened. This is an outcome, not a predictor of one --
-    a textbook example of post-outcome leakage.
-Also excluded: sds (constant 0 across all 152 matches so far -- zero
-variance, no signal to give).
-
-What's left -- damage_given, damage_taken, damage_differential,
-damage_ratio, damage_per_minute, damage_taken_per_minute, match_intensity,
-gsp, match_time_seconds, character, and opponent familiarity -- is weaker
-but genuinely predictive, and is what the feature importance / SHAP
-analysis below is actually worth reading.
-"""
-
 import os
 import numpy as np
 import pandas as pd
