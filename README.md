@@ -22,6 +22,8 @@ Scripts run in this order:
 
 ## Key Findings
 **EDA:** Overall win rate 61%. Win rate varies meaningfully by character, and matchup-level win rate varies far more than character-level win rate, which means who I'm fighting matters more than what I'm playing.
+<img width="1200" height="750" alt="image" src="https://github.com/user-attachments/assets/b1332b7b-1b4a-4237-8d31-55334ebd672a" />
+
 
 **Clustering (match-level):** K-Means on individual matches that deliberately excludes results reflects how a match was played, not whether it was won. Found k = 2 via silhouette score: a slower playing style (117 matches, 64% win rate) and a faster, high-damage-pace style (35 matches, 51% win rate). Tempo is the dominant axis in the data.
 
