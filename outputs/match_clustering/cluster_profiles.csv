@@ -1,0 +1,3 @@
+cluster,kos,falls,damage_given,damage_taken,match_time_seconds,damage_per_minute,damage_taken_per_minute,match_intensity
+0,2.45,2.03,299.31,304.02,272.74,65.77,65.81,0.02
+1,2.34,2.29,294.17,320.0,164.34,114.84,118.37,0.03

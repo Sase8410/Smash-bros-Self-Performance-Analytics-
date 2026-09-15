@@ -1,0 +1,5 @@
+cluster,win_rate,avg_damage_differential,avg_damage_ratio,avg_ko_differential,avg_damage_per_minute,avg_damage_taken_per_minute,avg_match_intensity
+0,0.0,-150.333,0.628,-1.5,72.567,119.456,0.022
+1,0.792,61.444,1.421,1.097,70.998,54.645,0.017
+2,0.633,7.367,1.105,0.633,108.038,107.207,0.027
+3,0.481,-31.556,0.917,-0.241,59.922,67.502,0.016
