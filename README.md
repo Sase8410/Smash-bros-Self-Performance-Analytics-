@@ -953,12 +953,6 @@ The dataset is also relatively small at 152 matches.
 
 Some individual character matchups contain few observations, which is why matchup-level analysis requires at least two matches before a matchup is included.
 
-Another important limitation is match duration.
-
-The current match-duration values are **engineered estimates rather than directly recorded telemetry**.
-
-Therefore, features derived from match duration—including damage per minute, damage taken per minute, and match intensity—should be interpreted as approximate indicators rather than exact gameplay telemetry.
-
 The XGBoost model should similarly be interpreted as an exploratory personal prediction model rather than evidence of general competitive predictive performance.
 
 Additional data will allow the stability of these findings to be tested over time.
@@ -974,7 +968,6 @@ Future improvements include:
 - Collecting substantially more matches
 - Increasing observations per character
 - Increasing observations for repeated matchups
-- Recording exact match duration
 - Tracking performance changes over time
 - Comparing cluster stability as the dataset grows
 - Examining character-specific gameplay styles
