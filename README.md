@@ -35,7 +35,7 @@ Scripts run in this order:
 
 **XGBoost:** Win/loss classifier reaches 73.7 cross-validated accuracy and 0.84 ROC-AUC after deliberately excluding kos, falls, ko_differential, and gsp_change, all of which correlate 0.8-0.9 with "result" column because they're essentially restatements of the outcome (Smash results are decided by KO count; GSP moves because of the result unless the opponent disconnects) rather than genuine predictors. damage_ratio (damage dealt relative to damage taken) is the strongest real signal.
 <img width="1172" height="1169" alt="image" src="https://github.com/user-attachments/assets/44b7d25f-ec7a-447a-8069-0232909ff8a5" />
-<img width="1172" height="1169" alt="image" src="https://github.com/user-attachments/assets/30518b66-cb52-4b55-9a71-db790691429c" />
+<img width="1200" height="720" alt="image" src="https://github.com/user-attachments/assets/7ff26890-1f1f-44cc-b566-7ac699b67441" />
 <img width="750" height="600" alt="image" src="https://github.com/user-attachments/assets/a463d44d-3d8a-4969-ab94-ea9b013e0985" />
 <img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/434946b7-0e56-4c47-86ee-ab0f15e0eb3b" />
 
